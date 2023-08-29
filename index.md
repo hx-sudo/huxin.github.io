@@ -1,3 +1,1 @@
-huxin.github.io
-
-Hello, this is my site.
+**Hello, this is my site.**
