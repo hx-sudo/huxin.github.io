@@ -1,9 +1,25 @@
 theme: jekyll-theme-minimal
 title: HuXin
 github_username: hx-sudo
+description: Welcome to my blog
+author:
+  name: HuXin
+  email: 123@gmail.com
 
+# Navigation links
+nav_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Contact
+    url: /contact/
+
+# Social media links
 social:
   - title: GitHub
-    icon: github
     url: https://github.com/hx-sudo
-
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=123
