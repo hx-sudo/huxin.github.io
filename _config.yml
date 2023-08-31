@@ -3,23 +3,21 @@ title: HuXin
 github_username: hx-sudo
 description: Welcome to my blog
 author:
-  name: HuXin
-  email: 123@gmail.com
+  name: "Your Name"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  location: "Somewhere"
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
 
-# Navigation links
-nav_links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Projects
-    url: /projects/
-  - title: Contact
-    url: /contact/
-
-# Social media links
-social:
-  - title: GitHub
-    url: https://github.com/hx-sudo
-  - title: Google Scholar
-    url: https://scholar.google.com/citations?user=123
