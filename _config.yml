@@ -2,6 +2,14 @@ theme: minimal-mistakes-jekyll
 title: HuXin
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 description: Welcome to my blog
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+
 author:
   name: "Your Name"
   bio: "I am an **amazing** person." # Note: Markdown is allowed
